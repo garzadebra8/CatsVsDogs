@@ -50,7 +50,7 @@ margin-left: 350px;
 font-size: 25px;
 font-family: 'Karla', sans-serif;
 font-weight: lighter;
-	
+	margin-bottom: 5px;
 }
 
 li{margin-left: 350px;
@@ -139,4 +139,6 @@ nav li a {
   background-color: #ECECEC;
 }
 
-form{margin: 400px;}
+form{margin: 400px;
+margin-bottom: 30px;
+}
