@@ -60,7 +60,7 @@ li{margin-left: 350px;
 }
 
 iframe{margin-left: 250px;	
-	
+	margin-bottom: auto
 }
 
 img{margin-left: 390px;	
@@ -140,5 +140,6 @@ nav li a {
 }
 
 form{margin: 400px;
+	margin-top: 0px;
 margin-bottom: 30px;
 }
