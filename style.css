@@ -117,3 +117,26 @@ button {
   font-weight: bold;
 }
 
+
+/*nav bar*/
+nav ul {
+  list-style-type: none;
+  margin: 3px;
+  padding: 0px;
+  overflow: hidden;
+	 
+}
+
+nav li {
+  float: middle;
+	 display: inline;
+
+}
+
+nav li a {
+  display: block;
+  padding: 10px;
+  background-color: #ECECEC;
+}
+
+form{margin: 400px;}
